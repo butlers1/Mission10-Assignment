@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FullStackFun.Controllers.BowlersController",
+    "Method": "Get",
+    "RelativePath": "Bowlers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
